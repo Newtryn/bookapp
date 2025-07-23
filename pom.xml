@@ -165,5 +165,5 @@ For example:
 - Do you need Spring Boot? It's on the list ✅
 - Do you want to connect to a database? Add that too! ✅
 
-Without this file, your app wouldn't know where to get its tools.
+Without this file, the app wouldn't know where to get its tools.
 -->
